@@ -6,3 +6,5 @@ const search0 = input => {
     arr.forEach(elem => {});
   });
 };
+
+//do it after , loop through and set it on a different array. 
